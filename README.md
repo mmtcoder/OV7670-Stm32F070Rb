@@ -18,5 +18,5 @@ I2C Pin Definition :
 PB9 : I2C_SDA
 PB8 : I2C_SCL
 
-NOTE : I dont use 5x5 font.h (or IL9341_GFX.h like DrawCircle, DrawRectangle etc..) for this project.
+NOTE : I didnt use 5x5 font.h (or function of the IL9341_GFX.h like DrawCircle, DrawRectangle etc..) for this project.
 I didn't delete the codes because maybe it can be useful.
