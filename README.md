@@ -1,8 +1,6 @@
-# OV7670-Stm32F070Rb
+# Using OV7670 Camera with STM32f070RB(Nucleo Board) and IL9341 LED(With SPI)
 
-USING OV7670 WITH NUCLEO STM32F070RB
-
-Main goal of this project is using OV7670( without FIFO)
+Main goal of this project is getting frame syncronuisly and showing them on the IL9341 LED( without FIFO)
  * using STM32F070RB and it consumes very less place in the SRAM. Every peripheral clock speed is set 48MHz.
  * Display Rendering Time approximately 2 second.
  * If you have using another board please check your System Clock and PWM setting to be 48MHz and (24Mhz for PWM).
