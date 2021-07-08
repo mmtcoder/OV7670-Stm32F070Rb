@@ -7,7 +7,7 @@ Main goal of this project is getting frame syncronuisly and display on the IL934
 
 For Pin Definitions Please Check main.h class 
 
-SPI Pın Defitions that I used:
+SPI Pın Definitions :
 PA5 : SPI_SCK
 PA6 : SPI_MISO
 PA7 : SPI_MOSI
