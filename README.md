@@ -1,4 +1,4 @@
-# Using OV7670 Camera with STM32f070RB(Nucleo Board) and IL9341 LED(With SPI)
+# Using OV7670 Camera with(QQVGA format) STM32f070RB(Nucleo Board) and IL9341 LED(With SPI)
 
 Main goal of this project is getting frame syncronuisly and display on the IL9341 LED( without FIFO)
  * using STM32F070RB and it consumes very less place in the SRAM. Every peripheral clock speed is set 48MHz.
